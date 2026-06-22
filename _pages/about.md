@@ -19,5 +19,5 @@ Methodologically, I combine remote sensing, field observations, dynamical system
 - Ecosystem resilience and regime shifts
 - Multistability and alternative stable states
 - Spatial interactions and landscape-scale ecological processes
-- Dryland ecosystem dynamics under water constraints
+- Dryland ecosystem dynamics and feedbacks
 - Remote sensing, spatial analysis, and causal inference
