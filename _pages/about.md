@@ -12,22 +12,22 @@ I am a postdoctoral researcher in ecology and geography at the Northwest Institu
 <div style="display: flex; gap: 16px; flex-wrap: wrap; margin-top: 20px; margin-bottom: 20px;">
 
   <div style="flex: 1; min-width: 220px; padding: 10px 14px; border: 1px solid #ddd; border-radius: 8px;">
-    <h3 style="margin-top: 4px; margin-bottom: 10px; font-size: 1.15em;">Ecosystem Resilience</h3>
-    <p style="font-size: 0.95em; line-height: 1.55; margin-top: 0; margin-bottom: 4px;">
+    <h3 style="margin-top: 4px; margin-bottom: 8px; font-size: 1.15em;">Ecosystem Resilience</h3>
+    <p style="font-size: 0.95em; line-height: 1; margin-top: 0; margin-bottom: 4px;">
       How ecosystems absorb disturbances, recover from perturbations, and maintain their structure and functions under environmental change.
     </p>
   </div>
 
   <div style="flex: 1; min-width: 220px; padding: 10px 14px; border: 1px solid #ddd; border-radius: 8px;">
-    <h3 style="margin-top: 4px; margin-bottom: 10px; font-size: 1.15em;">Multistability</h3>
-    <p style="font-size: 0.95em; line-height: 1.55; margin-top: 0; margin-bottom: 4px;">
+    <h3 style="margin-top: 4px; margin-bottom: 8px; font-size: 1.15em;">Multistability</h3>
+    <p style="font-size: 0.95em; line-height: 1; margin-top: 0; margin-bottom: 4px;">
       How alternative ecosystem states emerge, persist, and shift through internal feedbacks, thresholds, and hysteresis.
     </p>
   </div>
 
   <div style="flex: 1; min-width: 220px; padding: 10px 14px; border: 1px solid #ddd; border-radius: 8px;">
-    <h3 style="margin-top: 4px; margin-bottom: 10px; font-size: 1.15em;">Spatial Interaction</h3>
-    <p style="font-size: 0.95em; line-height: 1.55; margin-top: 0; margin-bottom: 4px;">
+    <h3 style="margin-top: 4px; margin-bottom: 8px; font-size: 1.15em;">Spatial Interaction</h3>
+    <p style="font-size: 0.95em; line-height: 1; margin-top: 0; margin-bottom: 4px;">
       How ecological effects, resources, disturbances, and functional connections are transmitted across space and scale up to landscape patterns.
     </p>
   </div>
