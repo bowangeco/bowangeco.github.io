@@ -13,17 +13,17 @@ I am a postdoctoral researcher in ecology and geography at the Northwest Institu
 
   <div style="flex: 1; min-width: 220px; padding: 16px; border: 1px solid #ddd; border-radius: 8px;">
     <h3>Ecosystem Resilience</h3>
-    #<p>How ecosystems absorb disturbances, recover from perturbations, and maintain their structure and functions under environmental change.</p>
+    <p>How ecosystems absorb disturbances, recover from perturbations, and maintain their structure and functions under environmental change.</p>
   </div>
 
   <div style="flex: 1; min-width: 220px; padding: 16px; border: 1px solid #ddd; border-radius: 8px;">
     <h3>Multistability</h3>
-    #<p>How alternative ecosystem states emerge, persist, and shift through internal feedbacks, thresholds, and hysteresis.</p>
+    <p>How alternative ecosystem states emerge, persist, and shift through internal feedbacks, thresholds, and hysteresis.</p>
   </div>
 
   <div style="flex: 1; min-width: 220px; padding: 16px; border: 1px solid #ddd; border-radius: 8px;">
     <h3>Spatial Interaction</h3>
-    #<p>How ecological effects, resources, disturbances, and functional connections are transmitted across space and scale up to landscape patterns.</p>
+    <p>How ecological effects, resources, disturbances, and functional connections are transmitted across space and scale up to landscape patterns.</p>
   </div>
 
 </div>
