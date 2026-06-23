@@ -41,3 +41,19 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Make footer area more compact */
+.page__footer {
+  margin-top: 1.2em !important;
+}
+
+.page__footer footer {
+  margin-top: 0.6em !important;
+  padding-top: 0 !important;
+  padding-bottom: 0.6em !important;
+}
+
+.page__footer-copyright {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
