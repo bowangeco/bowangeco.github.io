@@ -9,21 +9,21 @@ redirect_from:
 
 
 I am a postdoctoral researcher in ecology and geography at the Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences. My research focuses on ecosystem resilience, multistability, and spatial interactions in vulnerable landscapes.
-<div style="display: flex; gap: 16px; flex-wrap: wrap; margin-top: 20px; margin-bottom: 25px;">
+<div style="display: flex; gap: 14px; flex-wrap: wrap; margin-top: 16px; margin-bottom: 22px;">
 
-  <div style="flex: 1; min-width: 220px; padding: 10px 12px; border: 1px solid #ddd; border-radius: 8px;">
-    <h3 style="margin-top: 2px; margin-bottom: 10px; font-size: 1.1em;">Ecosystem Resilience</h3>
-    <img src="/images/Resilience.png" alt="Ecosystem resilience" style="width:100%; border-radius:6px; display:block;">
+  <div style="flex: 1; min-width: 220px; padding: 6px 8px 8px 8px; border: 1px solid #ddd; border-radius: 8px;">
+    <h3 style="margin-top: 0; margin-bottom: 4px; font-size: 1.12em;">Ecosystem Resilience</h3>
+    <img src="/images/Resilience.png" alt="Ecosystem resilience" style="width:100%; border-radius:4px; display:block;">
   </div>
 
-  <div style="flex: 1; min-width: 220px; padding: 10px 12px; border: 1px solid #ddd; border-radius: 8px;">
-    <h3 style="margin-top: 2px; margin-bottom: 10px; font-size: 1.1em;">Multistability</h3>
-    <img src="/images/Multistability.png" alt="Multistability" style="width:100%; border-radius:6px; display:block;">
+  <div style="flex: 1; min-width: 220px; padding: 6px 8px 8px 8px; border: 1px solid #ddd; border-radius: 8px;">
+    <h3 style="margin-top: 0; margin-bottom: 4px; font-size: 1.12em;">Multistability</h3>
+    <img src="/images/Multistability.png" alt="Multistability" style="width:100%; border-radius:4px; display:block;">
   </div>
 
-  <div style="flex: 1; min-width: 220px; padding: 10px 12px; border: 1px solid #ddd; border-radius: 8px;">
-    <h3 style="margin-top: 2px; margin-bottom: 10px; font-size: 1.1em;">Spatial Interaction</h3>
-    <img src="/images/Spatial%20interaction.png" alt="Spatial interaction" style="width:100%; border-radius:6px; display:block;">
+  <div style="flex: 1; min-width: 220px; padding: 6px 8px 8px 8px; border: 1px solid #ddd; border-radius: 8px;">
+    <h3 style="margin-top: 0; margin-bottom: 4px; font-size: 1.12em;">Spatial Interaction</h3>
+    <img src="/images/Spatial%20interaction.png" alt="Spatial interaction" style="width:100%; border-radius:4px; display:block;">
   </div>
 
 </div>
