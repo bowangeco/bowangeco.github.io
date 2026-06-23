@@ -1,25 +1,7 @@
 {% include base_path %}
 
 <div class="page__footer-copyright" style="max-width: 820px; margin-left: auto; margin-right: auto; text-align: right;">
-  <strong>
-    Follow:
-    {% if site.author.github %}
-      <a href="https://github.com/{{ site.author.github }}">
-        <i class="fab fa-github" aria-hidden="true"></i> GitHub
-      </a>
-    {% endif %}
-
-    {% if site.atom_feed.hide != true %}
-      <span style="margin-left: 10px;">
-        <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}">
-          <i class="fa fa-fw fa-rss-square" aria-hidden="true" style="color: #f89406;"></i>
-          {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}
-        </a>
-      </span>
-    {% endif %}
-  </strong>
-
-  <span style="margin-left: 16px;">
+  <span>
     &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }},
     {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }}
     <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>
