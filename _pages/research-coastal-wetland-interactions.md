@@ -4,9 +4,9 @@ permalink: /research/coastal-wetland-interactions/
 author_profile: true
 ---
 
-<p style="margin-top: 0; margin-bottom: 18px;">
+<!-- <p style="margin-top: 0; margin-bottom: 18px;">
   <a href="/research/" style="text-decoration: none;">← Back to Research</a>
-</p>
+</p> -->
 
 This research examines how long-distance biotic interactions reshape coastal wetland structure and resilience. We focused on the Yancheng coastal wetlands along the Yellow Sea, where the native red marsh formed by <em>Suaeda salsa</em> has high ecological, cultural, and conservation value. These red marshes support diverse coastal communities and provide important habitats for migratory waterbirds, but they have declined rapidly in recent decades.
 
