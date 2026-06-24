@@ -10,7 +10,7 @@ author_profile: true
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 8px;">
     <a href="/research/coastal-wetland-interactions/">
-      <img src="/images/research/coastal_wetland_interactions.png" alt="Coastal wetland resilience" style="width:100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius:6px; display:block;">
+      <img src="/images/research/coastal_wetland_interactions2.png" alt="Coastal wetland resilience" style="width:100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius:6px; display:block;">
     </a>
     <h3 style="margin-top: 10px; margin-bottom: 4px; font-size: 1.12em; line-height: 1.35;">
       <a href="/research/coastal-wetland-interactions/" style="text-decoration: none;">
@@ -21,7 +21,7 @@ author_profile: true
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 8px;">
     <a href="/research/dryland-water-management/">
-      <img src="/images/research/dryland_water_management.png" alt="Dryland multistability under water-resource regulation" style="width:100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius:6px; display:block;">
+      <img src="/images/research/dryland_water_management2.png" alt="Dryland multistability under water-resource regulation" style="width:100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius:6px; display:block;">
     </a>
     <h3 style="margin-top: 10px; margin-bottom: 4px; font-size: 1.12em; line-height: 1.35;">
       <a href="/research/dryland-water-management/" style="text-decoration: none;">
