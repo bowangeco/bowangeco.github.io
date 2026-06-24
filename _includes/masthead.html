@@ -20,7 +20,12 @@
           {% endfor %} -->
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item{% if page.url contains link.url %} masthead__menu-item--active{% endif %}">
-              <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+              <a href="{{ link.url | relative_url }}"
+                 {% if page.url contains link.url %}
+                 style="border-bottom: 2px solid currentColor; padding-bottom: 4px;"
+                 {% endif %}>
+                {{ link.title }}
+              </a>
             </li>
           {% endfor %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
