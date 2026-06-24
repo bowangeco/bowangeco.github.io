@@ -8,9 +8,9 @@ This research examines how human water-resource regulation reshapes multistabili
 
 <figure style="margin-top: 24px; margin-bottom: 28px;">
   <img src="/images/research/2_Hexi_Figure8.png" alt="Hexi Corridor as a typical dryland social-ecological system" style="width:100%; border-radius:8px; display:block;">
-  <figcaption style="font-size:0.9em; line-height:1.5; color:#555; margin-top:8px;">
-    The Hexi Corridor is a typical dryland social-ecological system, where ecosystems are strongly constrained by water limitation and increasingly shaped by human water use. Although precipitation did not show a clear increasing trend and potential evapotranspiration tended to rise, vegetation greenness increased markedly over the past two decades. The consistency between increasing NDVI and rising water use suggests that human water-resource regulation may have become a dominant driver of recent ecosystem change.
-  </figcaption>
+ <figcaption style="font-size:0.9em; line-height:1.5; color:#555; margin-top:8px;">
+  The Hexi Corridor is a typical dryland social-ecological system, where ecosystems are strongly constrained by water limitation and increasingly shaped by human water use. Despite intensifying aridity stress, vegetation greenness increased markedly over the past two decades. The consistency between increasing NDVI and rising water use suggests that human water-resource regulation may have become a dominant driver of recent ecosystem change.
+</figcaption>
 </figure>
 
 <figure style="margin-top: 24px; margin-bottom: 28px;">
@@ -22,9 +22,9 @@ This research examines how human water-resource regulation reshapes multistabili
 
 <figure style="margin-top: 24px; margin-bottom: 28px;">
   <img src="/images/research/2_Hexi_Figure3.png" alt="Potential landscape analysis of dryland multistability with and without human activity" style="width:100%; border-radius:8px; display:block;">
-  <figcaption style="font-size:0.9em; line-height:1.5; color:#555; margin-top:8px;">
-    Based on potential landscape analysis, we found a new ecosystem state that is largely independent of the original bistability of the natural dryland system. Without human activity, ecosystem quality remains mainly constrained by natural water availability and is concentrated in a low-quality state. When human activity is incorporated, a distinct high-quality ecosystem state emerges, indicating that human water-resource regulation can drive the formation of a substantially improved ecosystem state.
-  </figcaption>
+<figcaption style="font-size:0.9em; line-height:1.5; color:#555; margin-top:8px;">
+  Based on potential landscape analysis, we found that the natural dryland system exhibits bistability, consistent with previous studies on dryland alternative stable states. However, under natural conditions, both ecosystem states remain at relatively low levels of ecosystem quality. When human activity is incorporated, a distinct high-quality ecosystem state emerges, indicating that human water-resource regulation can drive the formation and maintenance of a substantially improved ecosystem state beyond the original natural dynamics.
+</figcaption>
 </figure>
 
 <figure style="margin-top: 24px; margin-bottom: 28px;">
