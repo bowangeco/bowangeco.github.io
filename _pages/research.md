@@ -68,22 +68,13 @@ author_profile: true
 
 ## Projects
 
-<!-- <div style="margin-top: 18px;">
-
-  <div style="border-left: 4px solid #ddd; padding-left: 14px; margin-bottom: 18px;">
-    <h3 style="margin-bottom: 4px;">Postdoctoral Innovative Talent Support Program, 2025</h3>
-    <p style="margin-top: 0; margin-bottom: 4px;"><strong>Role:</strong> Principal Investigator</p>
-    <p style="margin-top: 0; margin-bottom: 4px;"><strong>Project:</strong> Long-distance interactions shape landscape resilience in drylands</p>
-  </div>
-
-  <div style="border-left: 4px solid #ddd; padding-left: 14px; margin-bottom: 18px;">
-    <h3 style="margin-bottom: 4px;">China Postdoctoral Science Foundation General Program, 2025</h3>
-    <p style="margin-top: 0; margin-bottom: 4px;"><strong>Role:</strong> Principal Investigator</p>
-    <p style="margin-top: 0; margin-bottom: 4px;"><strong>Project:</strong> Human activities shape multistability and resilience in dryland ecosystems</p>
-  </div>
-
-</div> -->
 <div style="margin-top: 18px;">
+
+  <div style="border-left: 4px solid #ddd; padding-left: 14px; margin-bottom: 18px;">
+    <h3 style="margin-bottom: 4px;">National Natural Science Foundation of China, 2026</h3>
+    <p style="margin-top: 0; margin-bottom: 4px;">Principal Investigator</p>
+    <p style="margin-top: 0; margin-bottom: 4px;">Formation mechanisms and resilience effects of landscape interactions in the Hexi region, China</p>
+  </div>
 
   <div style="border-left: 4px solid #ddd; padding-left: 14px; margin-bottom: 18px;">
     <h3 style="margin-bottom: 4px;">Postdoctoral Innovative Talent Support Program, 2025</h3>
