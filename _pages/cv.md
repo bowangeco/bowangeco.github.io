@@ -58,11 +58,13 @@ author_profile: true
 </div>
 
 ## Academic Service
+
 <div class="cv-section">
-  <h2>Academic Service</h2>
+
   <div class="cv-entry">
     <div class="cv-date">2026.08 – Present</div>
-    <div class="cv-title"><strong>Data Associate Editor</strong></div>
-    <div class="cv-institution"><em>Journal of Ecology</em></div>
+    <div class="cv-title">Data Associate Editor</div>
+    <div class="cv-institution">Journal of Ecology</div>
   </div>
+
 </div>
