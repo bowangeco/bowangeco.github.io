@@ -33,7 +33,7 @@ author_profile: true
 
   <div class="cv-entry">
     <div class="cv-date">2018.09 – 2024.09</div>
-    <div class="cv-title">Ph.D. in Ecology</div>
+    <div class="cv-title">Ph.D. in Ecology, supervised by Prof. Chi Xu</div>
     <div class="cv-institution">Nanjing University, China</div>
   </div>
 
@@ -51,7 +51,7 @@ author_profile: true
 
   <div class="cv-entry">
     <div class="cv-date">2024.09 – Present</div>
-    <div class="cv-title">Postdoctoral Researcher; Assistant Researcher</div>
+    <div class="cv-title">Postdoctoral Researcher, supervised by Prof. Qi Feng; Assistant Researcher</div>
     <div class="cv-institution">Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences, China</div>
   </div>
 
